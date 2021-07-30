@@ -19,7 +19,9 @@
     "apollo-server": "^3.0.2",
     "apollo-server-core": "^3.1.1",
     "apollo-server-express": "^3.1.1",
+    "develop": "^1.0.0",
     "graphql": "^15.5.1",
-    "graphql-express": "^2.0.2"
+    "graphql-express": "^2.0.2",
+    "run": "^1.4.0"
   }
 }
